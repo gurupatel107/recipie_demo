@@ -30,16 +30,17 @@ dependencies:
   dio: ^3.0.10
   dio_http_cache: ^0.2.11
   flutter_hooks: ^0.15.0
-  freezed_annotation:
+  freezed_annotation: null
   hooks_riverpod: ^0.12.1
   intl: ^0.16.1
+  intro_slider: ^2.3.3
   shared_preferences: ^0.5.12+4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner:
-  freezed:
+  build_runner: null
+  freezed: null
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
